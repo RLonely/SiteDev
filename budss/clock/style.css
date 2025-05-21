@@ -1,0 +1,23 @@
+#clock{
+    font-family:Tahoma, sans-serif;
+    font-size:20px;
+    font-weight:bold;
+    color:#000000;
+    position: absolute;
+    top: 120px;
+}
+
+#Time {
+    border: 15px solid #732a00;
+    border-radius: 300px;
+}
+
+.block {
+    position: relative;
+    width: 480px;
+    height: 480px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 25px;
+}
